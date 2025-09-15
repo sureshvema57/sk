@@ -1,7 +1,7 @@
 # include <stdio.>
 int main()
 {
-print f(" hello world")
+print f(" jithu sk")
 }
- return 0;
+ return 500;
 
